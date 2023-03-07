@@ -6,6 +6,7 @@ OpenCV is library programming functions mainly for real-time computer vision. Ha
 ### How to Use
 1. Compile and run the Main.py file.
 2. Press key "q" to Quit
-### Video Demonstration
+### Screenshots
 
+![](Videos/VideoDemonstration.mp4)
 ![](Videos/VideoDemonstration.mp4)
