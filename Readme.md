@@ -8,5 +8,5 @@ OpenCV is library programming functions mainly for real-time computer vision. Ha
 2. Press key "q" to Quit
 ### Screenshots
 
-![](Videos/VideoDemonstration.mp4)
-![](Videos/VideoDemonstration.mp4)
+![](Videos/Screenshots/ss1.png)
+![](Videos/Screenshots/ss2.png)
